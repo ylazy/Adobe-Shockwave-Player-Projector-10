@@ -1,0 +1,4 @@
+- Install: Shockwave_Installer_Full_10.3.0.24.exe
+- SPR.exe: Projector - Release
+- SPRD.exe: Projector - Debug
+- SPRS.exe - Fullscreen
